@@ -1,0 +1,10 @@
+*~
+*.pyc
+*.pyo
+*.mo
+.installed.cfg
+.mr.developer.cfg
+bin/
+src/
+parts/
+develop-eggs/
